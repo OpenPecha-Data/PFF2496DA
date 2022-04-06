@@ -1,0 +1,39 @@
+id: P65761E11
+initial_creation_type: input
+source_metadata:
+  title: Works of Taktsang Lotsawa Sherab Rinchen
+  parent: 2. Collected works
+  source: https://sakyalibrary.com
+  bases:
+    4ff6:
+      title: དཔལ་ལྡན་ས་སྐྱའི་གདུང་རབས་འདོད་དགུའི་རྒྱ་མཚོ།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: 4ff6.txt
+      order: 1
+    a926:
+      title: རིག་གནས་ཀུན་ཤེས་ནས་བདག་མེད་གྲུབ་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: a926.txt
+      order: 2
+    2cd8:
+      title: རིག་གནས་ཀུན་ཤེས་ནས་བདག་མེད་གྲུབ་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་ཀྱི་རྣམ་པར་བཤད་པ་ཉུང་གསལ་ཀུན་དགའ།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: 2cd8.txt
+      order: 3
+    94dc:
+      title: གྲུབ་མཐའ་ཀུན་ཤེས་ནས་མཐའ་བྲལ་གྲུབ་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་དང་། དེའི་རྣམ་པར་བཤད་པ་ལེགས་བཤད་ཀྱི་རྒྱ་མཚོ།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: 94dc.txt
+      order: 4
+    11d6:
+      title: རྟེན་གསུམ་བཞེངས་ཚུལ་དཔལ་འབྱོར་རྒྱ་མཚོ།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: 11d6.txt
+      order: 5
+    f0f8:
+      title: ཆོས་དང་ཆོས་ཉིད་རྣམ་འབྱེད་ཀྱི་རྣམ་བཤད་པྲཛྙཱ་རཏྣས་སྦྱར་བ་བཞུགས་སོ།།
+      author: སྟག་ཚང་ལོ་ཙཱ་བ་ཤེས་རབ་རིན་ཆེན།
+      base_file: f0f8.txt
+      order: 6
+created_at: '2022-04-06T17:01:29.637679'
+last_modified_at: '2022-04-06T17:01:29.637690'
